@@ -1,4 +1,3 @@
-package test2;
 import java.util.Queue;
 import java.util.List;
 import java.util.LinkedList;
