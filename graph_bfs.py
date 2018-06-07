@@ -11,7 +11,7 @@ g['G'] = []
 
 print g
 
-visited = ['A']
+visited = {'A'}
 q = deque()
 q.append('A')
 
