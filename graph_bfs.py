@@ -15,7 +15,7 @@ visited = {'A'}
 q = deque()
 q.append('A')
 
-while len(q)>0:
+while q:
     node = q.pop()
     print node
     for e in g[node]:
